@@ -1,10 +1,10 @@
-# my_app
+# simple habit_tracker_app
 
-A new Flutter project.
+You can track your daily habits and routines.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project uses Flutter and the Isar database for local storage.
 
 A few resources to get you started if this is your first Flutter project:
 
